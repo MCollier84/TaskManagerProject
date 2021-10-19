@@ -79,13 +79,14 @@ let userInput = prompt(menu);
 while (userInput !== `CLOSE`){
   // OTHER OPTIONS
   if (userInput === "TASKS"){
-    alert(`This is the TASKS feature`)
+    alert(`Charge MacBook\nMaster JavaScript`);}
+    // alert(`This is the TASKS feature`);}
   if (userInput === "NEW"){
       alert(`This is the NEW feature`);
     }
   if (userInput === "REMOVE"){
       alert(`This is the REMOVE feature`);
-  
+  }
   
   
     // Displays the menu again
